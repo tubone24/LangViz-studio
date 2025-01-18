@@ -24,3 +24,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.setuptools.packages.find]
 where = ["langviz_studio"]
+
+[virtualenvs]
+create = true
+in-project = true
