@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "langviz-studio"
+version = "0.1.0"
+description = "Observability for your LangGraph"
+authors = ["tubone <tubo.yyyuuu@gmail.com>"]
+license = "MIT"
+keywords = ["langchain", "observability", "langgraph", "graphviz"]
+readme = "README.md"
+
+packages = [
+    { include = "langviz_studio" }
+]
+
+[project.urls]
+Homepage = "https://github.com/tubone24/LangViz-studio"
+
+[tool.poetry.dependencies]
+python = "<4.0,>=3.9.0"
+
+langgraph = "^0.2.64"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.setuptools.packages.find]
+where = ["langviz_studio"]
