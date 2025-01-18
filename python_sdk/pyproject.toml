@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "langviz-studio"
-version = "0.1.0"
-description = "Observability for your LangGraph"
+version = "0.1.1"
+description = "LangViz-Studio is an observability toolkit for LangGraph workflows. "
 authors = ["tubone <tubo.yyyuuu@gmail.com>"]
 license = "MIT"
 keywords = ["langchain", "observability", "langgraph", "graphviz"]

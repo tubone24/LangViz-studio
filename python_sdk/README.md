@@ -2,6 +2,8 @@
 
 LangViz-Studio is an observability toolkit for [LangGraph](https://pypi.org/project/langgraph/) workflows. 
 
+<img src="./images/logo.png" width="30%" alt="logo"/>
+
 It enables you to track the execution states, node transitions, and conditional edges of your state-based flows or agent pipelines in real-time, sending all data asynchronously to a customizable endpoint (e.g., a Next.js server) for visualization.
 
 ## Key Features
