@@ -47,9 +47,11 @@ npm run dev
 
 ## DEMO
 
-<video controls width="250">
-  <source src="https://github.com/user-attachments/assets/f736cadc-f7db-4bdf-8746-ccb25e672f6e" type="video/mov" />
-</video>
+
+https://github.com/user-attachments/assets/d7e1e6cd-76d3-4904-98a6-4f97f66258b4
+
+
+
 
 ## License
 MIT License. See [LICENSE](./LICENSE) for details.
