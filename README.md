@@ -49,7 +49,7 @@ npm run dev
 
 <video controls width="250">
   <source src="https://github.com/user-attachments/assets/f736cadc-f7db-4bdf-8746-ccb25e672f6e" type="video/mov" />
-
+</video>
 
 ## License
 MIT License. See [LICENSE](./LICENSE) for details.
