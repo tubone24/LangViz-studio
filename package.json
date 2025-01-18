@@ -15,7 +15,7 @@
     "@prisma/client": "^6.2.1",
     "dagre": "^0.8.5",
     "elkjs": "^0.9.3",
-    "next": "13.4.10",
+    "next": "14.2.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "reactflow": "^11.4.2"
