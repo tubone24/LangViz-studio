@@ -1,6 +1,6 @@
 # LangViz-studio
 
-![logo.png](./images/logo.png)
+<img src="./images/logo.png" width="30%" alt="logo"/>
 
 LangViz-Studio is an observability toolkit for [LangGraph](https://pypi.org/project/langgraph/) workflows.
 
