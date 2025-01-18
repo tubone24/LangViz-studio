@@ -47,7 +47,9 @@ npm run dev
 
 ## DEMO
 
-![demo.gif](images/demo.gif)
+<video controls width="250">
+  <source src="https://github.com/user-attachments/assets/f736cadc-f7db-4bdf-8746-ccb25e672f6e" type="video/mov" />
+
 
 ## License
 MIT License. See [LICENSE](./LICENSE) for details.
